@@ -1,0 +1,48 @@
+.flex {
+    display: flex;
+}
+
+.column-flex {
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+}
+
+.poster {
+    float: left;
+}
+
+.label,
+.table-content {
+    padding: 10px;
+}
+
+.table-content a {
+    margin: 0 10px;
+}
+
+.table-content li,
+.credits li,
+.iframes li {
+    list-style-type: none;
+}
+
+li.label {
+    padding: 10px;
+}
+
+ul.flex {
+    overflow: auto;
+}
+
+ul.scroller {
+    display: -webkit-box;
+    width: 720px;
+    overflow: auto;
+}
+
+.item {
+    float: left;
+    width: 33%;
+    padding: 1%;
+}

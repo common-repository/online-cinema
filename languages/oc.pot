@@ -1,0 +1,274 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Online Cinema\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-08 15:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1"
+
+#: classes/render.php:192 classes/taxonomy.php:59
+msgid "Actors"
+msgstr ""
+
+#: classes/types.php:80
+msgid "Add rating"
+msgstr ""
+
+#: classes/types.php:102
+msgid "Add season"
+msgstr ""
+
+#: classes/types.php:93 classes/types.php:98
+msgid "Add studio"
+msgstr ""
+
+#: classes/types.php:467
+msgid "Air date"
+msgstr ""
+
+#: classes/types.php:106
+msgid "Background"
+msgstr ""
+
+#: classes/render.php:133 classes/types.php:88
+msgid "Budget"
+msgstr ""
+
+#: classes/types.php:101
+msgid "Calendar"
+msgstr ""
+
+#: classes/taxonomy.php:189
+msgid "Character"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cheater"
+msgstr ""
+
+#: classes/taxonomy.php:344
+msgid "Choosen Photo"
+msgstr ""
+
+#: classes/render.php:204 classes/taxonomy.php:69
+msgid "Companies"
+msgstr ""
+
+#: classes/taxonomy.php:39
+msgid "Contries"
+msgstr ""
+
+#: classes/render.php:117
+msgid "Countries"
+msgstr ""
+
+#: classes/taxonomy.php:54
+msgid "Created by"
+msgstr ""
+
+#: classes/render.php:196
+msgid "Creators"
+msgstr ""
+
+#: classes/render.php:200 classes/taxonomy.php:64
+msgid "Crew"
+msgstr ""
+
+#: classes/render.php:105 classes/taxonomy.php:44
+msgid "Genres"
+msgstr ""
+
+#: classes/types.php:374
+msgid "Hide"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wp-dev.lazycrub.com/oc-plugin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.facebook.com/profile.php?id=100011067999022"
+msgstr ""
+
+#: classes/types.php:56 classes/types.php:254
+msgid "Import from TMDb"
+msgstr ""
+
+#: classes/taxonomy.php:187
+msgid "Job"
+msgstr ""
+
+#: classes/types.php:408
+msgid "Link"
+msgstr ""
+
+#: classes/types.php:252
+msgid "Loading..."
+msgstr ""
+
+#: classes/taxonomy.php:90
+msgid "Members data"
+msgstr ""
+
+#: classes/types.php:26 classes/types.php:404
+msgid "Movies"
+msgstr ""
+
+#: classes/taxonomy.php:213 classes/types.php:467
+msgid "Name"
+msgstr ""
+
+#: classes/plugin-settings.php:7
+msgid "OC Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Online Cinema"
+msgstr ""
+
+#: classes/render.php:109 classes/types.php:59
+msgid "Original language"
+msgstr ""
+
+#: classes/render.php:113 classes/types.php:63
+msgid "Original title"
+msgstr ""
+
+#: classes/render.php:146
+msgid "Overview"
+msgstr ""
+
+#: classes/taxonomy.php:331 classes/taxonomy.php:375
+msgid "Photo"
+msgstr ""
+
+#: classes/render.php:265
+msgid "Player"
+msgstr ""
+
+#: classes/plugin-settings.php:7 classes/plugin-settings.php:12
+msgid "Plugin Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin that will make with any WP-theme cinema."
+msgstr ""
+
+#: classes/types.php:110
+msgid "Poster"
+msgstr ""
+
+#: classes/render.php:125 classes/types.php:67
+msgid "Premiere date"
+msgstr ""
+
+#: classes/render.php:140 classes/types.php:79
+msgid "Ratings"
+msgstr ""
+
+#: classes/taxonomy.php:209
+msgid "Remove photo"
+msgstr ""
+
+#: classes/taxonomy.php:180 classes/taxonomy.php:213 classes/types.php:230
+#: classes/types.php:405 classes/types.php:408 classes/types.php:411
+#: classes/types.php:421 classes/types.php:467
+msgid "Remove this"
+msgstr ""
+
+#: classes/taxonomy.php:348 classes/taxonomy.php:382
+msgid "Remove this photo"
+msgstr ""
+
+#: classes/render.php:129 classes/types.php:71
+msgid "Runtime"
+msgstr ""
+
+#: classes/plugin-settings.php:20
+msgid "Save"
+msgstr ""
+
+#: classes/types.php:421
+msgid "Season name"
+msgstr ""
+
+#: classes/shortcodes.php:23
+msgid "See all"
+msgstr ""
+
+#: functions.php:31
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr ""
+
+#: classes/taxonomy.php:347 classes/taxonomy.php:381
+msgid "Set Photo"
+msgstr ""
+
+#: classes/taxonomy.php:208 classes/types.php:230
+msgid "Set photo"
+msgstr ""
+
+#: classes/types.php:385 classes/types.php:467
+msgid "Show links"
+msgstr ""
+
+#: classes/types.php:92 classes/types.php:97
+msgid "Studios"
+msgstr ""
+
+#: classes/render.php:121 classes/types.php:84
+msgid "Tagline"
+msgstr ""
+
+#: classes/taxonomy.php:87
+msgid "Taxonomies data"
+msgstr ""
+
+#: classes/types.php:405 classes/types.php:408 classes/types.php:411
+msgid "Title"
+msgstr ""
+
+#: classes/plugin-settings.php:35
+msgid "TMDb API key(<a href=\"https://www.themoviedb.org/\">get it</a>)"
+msgstr ""
+
+#: classes/types.php:55
+msgid "TMDb id"
+msgstr ""
+
+#: classes/render.php:266
+msgid "Trailer"
+msgstr ""
+
+#: classes/types.php:75
+msgid "Trailer link(on youtube)"
+msgstr ""
+
+#: classes/types.php:22
+msgid "TV Shows"
+msgstr ""
+
+#: classes/types.php:476
+msgid "URL"
+msgstr ""
+
+#: functions.php:33
+msgid "Use this media"
+msgstr ""
+
+#: classes/types.php:405
+msgid "Value"
+msgstr ""
+
+#: classes/taxonomy.php:49
+msgid "Years"
+msgstr ""
